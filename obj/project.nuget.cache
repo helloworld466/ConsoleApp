@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UDdAzt/zp+ArP+ztqxFTgDquo05fMk8q11eWuZi9Q1gFDJJvomfV3V6TmTpILK19WfUmrWcJcQaVHwU/YPsSzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akshay.badri\\source\\repos\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akshay.badri\\.nuget\\packages\\multiply\\1.0.0\\multiply.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
