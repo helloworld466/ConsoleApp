@@ -8,7 +8,7 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine(SquareNumber.Square(25));
+            Console.WriteLine(SquareNumber.Square(variable2));
         }
     }
 }
